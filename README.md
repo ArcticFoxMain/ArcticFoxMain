@@ -1,4 +1,4 @@
-# 🎮 Gamer • Developer • Creator 💻
+# 🎮 Gamer • Developer 💻
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Относно мен
 
 Геймър и разработчик, който обича да създава и играе! Строя уебсайтове с HTML, CSS и JavaScript, а във свободното време играя **GTA 5**, **Minecraft** и **Fortnite**.
 
@@ -23,7 +23,7 @@ const me = {
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Често използвани езици
 
 <div align="center">
 
