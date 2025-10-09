@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&center=true&width=435&lines=Code+by+Day+%F0%9F%92%BB;Game+by+Night+%F0%9F%8E%AE;Building+Digital+Worlds+%F0%9F%8C%8D)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&center=true&width=435&lines=Програмирай+през+Деня+%F0%9F%92%BB;Играй+през+Нощта+%F0%9F%8E%AE;Building+Digital+Worlds+%F0%9F%8C%8D)
 
 </div>
 
