@@ -35,7 +35,7 @@ const me = {
 
 ---
 
-## 🎮 Now Playing
+## 🎮 Сега играе
 
 <div align="center">
 
@@ -49,7 +49,7 @@ const me = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Статистика
 
 <div align="center">
 
@@ -63,8 +63,8 @@ const me = {
 
 <div align="center">
 
-### 💜 Thanks for visiting!
+### 💜 Благодаря за посещението!
 
-**"First, solve the problem. Then, write the code."** 🚀
+**"Първо, решете проблема. След това напишете кода."** 🚀
 
 </div>
