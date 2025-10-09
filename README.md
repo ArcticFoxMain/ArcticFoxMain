@@ -39,11 +39,11 @@ const me = {
 
 <div align="center">
 
-| Game | Platform | Status |
+| Игра | Платформа | Status |
 |------|----------|--------|
-| 🚗 **GTA 5** | PC | Heisting 💰 |
-| ⛏️ **Minecraft** | PC | Building 🏗️ |
-| 🎯 **Fortnite** | PC | Victory Royale 🏆 |
+| 🚗 **GTA 5** | Лаптоп | Обиране 💰 |
+| ⛏️ **Minecraft** | Лаптоп | Строене 🏗️ |
+| 🎯 **Fortnite** | Лаптоп | Victory Royale 🏆 |
 
 </div>
 
