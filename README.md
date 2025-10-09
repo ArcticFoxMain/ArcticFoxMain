@@ -17,7 +17,7 @@ const me = {
     role: "Frontend Developer & Gamer",
     code: ["HTML", "CSS", "JavaScript"],
     play: ["GTA 5", "Minecraft", "Fortnite"],
-    motto: "Build. Play. Repeat. 🔄"
+    motto: "Създай. Игай. Повтори. 🔄"
 };
 ```
 
