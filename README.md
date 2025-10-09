@@ -55,7 +55,7 @@ const me = {
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArcticFoxMain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArcticFoxMain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7)
 
 </div>
 
@@ -64,8 +64,6 @@ const me = {
 <div align="center">
 
 ### 💜 Thanks for visiting!
-
-![Visitor Count](https://profile-counter.glitch.me/ArcticFoxMain/count.svg)
 
 **"First, solve the problem. Then, write the code."** 🚀
 
