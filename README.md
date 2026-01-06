@@ -10,14 +10,13 @@
 
 ## 👨‍💻 Относно мен
 
-Геймър и разработчик, който обича да създава и играе! Строя уебсайтове с HTML, CSS и JavaScript, а във свободното време играя **GTA 5**, **Minecraft** и **Fortnite**.
+Геймър и разработчик, който обича да създава и играе! Кодя уебсайтове с HTML, CSS и JavaScript, а във свободното време играя **GTA 5** и **Minecraft**.
 
 ```javascript
 const me = {
     role: "Frontend Developer & Gamer",
     code: ["HTML", "CSS", "JavaScript"],
-    play: ["GTA 5", "Minecraft", "Fortnite"],
-    motto: "Създай. Игай. Повтори. 🔄"
+    play: ["GTA 5", "Minecraft"]
 };
 ```
 
@@ -43,19 +42,6 @@ const me = {
 |------|----------|--------|
 | 🚗 **GTA 5** | Лаптоп | Обиране 💰 |
 | ⛏️ **Minecraft** | Лаптоп | Строене 🏗️ |
-| 🎯 **Fortnite** | Лаптоп | Победа 🏆 |
-
-</div>
-
----
-
-## 📊 GitHub Статистика
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArcticFoxMain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArcticFoxMain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7)
 
 </div>
 
@@ -63,8 +49,3 @@ const me = {
 
 <div align="center">
 
-### 💜 Благодаря за посещението!
-
-**"Първо, решете проблема. След това напишете кода."** 🚀
-
-</div>
